@@ -2,6 +2,7 @@ package com.example.GB_SpringCore_LK4.sevices;
 
 import com.example.GB_SpringCore_LK4.models.User;
 import com.example.GB_SpringCore_LK4.repository.UserRepository;
+import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
